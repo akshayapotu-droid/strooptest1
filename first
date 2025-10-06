@@ -1,0 +1,5 @@
+stroop-test/      ← root
+│
+├─ index.html      ← MUST be here
+├─ script.js
+└─ style.css
